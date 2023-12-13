@@ -1,2 +1,2 @@
-# myportfolio
-This is my first website using HTML.Good luck to me
+# Stock portfolio
+This is my first python stocktrading analysis.Good luck to me
